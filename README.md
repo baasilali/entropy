@@ -1,7 +1,6 @@
 # Entropy Particle System
 
 ![Entropy Visualization](docs/entropy-demo.png)
-> *Add a GIF or screenshot of your entropy visualization here*
 
 A React-based interactive particle system that demonstrates the concept of entropy through a visual simulation of order and chaos.
 
