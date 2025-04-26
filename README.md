@@ -4,10 +4,6 @@
 
 A React-based interactive particle system that demonstrates the concept of entropy through a visual simulation of order and chaos.
 
-## Demo
-
-[Live Demo](#) *(Add your demo link here)*
-
 ## Overview
 
 This project visualizes the concept of entropy using an interactive particle system. Each particle exists in either an ordered or chaotic state, influencing nearby particles through a sophisticated neighbor system. Users can interact with the system by clicking to introduce chaos or pressing the spacebar to restore order.
